@@ -2,7 +2,7 @@
 
 # Home
 
-> [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity/)
+> [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity)
 
 | Project |
 | ------- |
@@ -10,7 +10,7 @@
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-gnome-shell-layout-wincity) |
 | `=` |
-| [ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-attach-themes) |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
 
 
 
