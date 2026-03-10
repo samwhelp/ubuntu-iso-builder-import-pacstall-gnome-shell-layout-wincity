@@ -74,6 +74,8 @@ sys_gext_install () {
 mod_module_gext_install () {
 
 
+	sys_pipx_install
+
 	sys_gext_install
 
 
